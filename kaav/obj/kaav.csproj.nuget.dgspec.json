@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rajatthakur/Documents/Project/kaav/kaav/kaav.csproj": {}
+    "/Users/rajatthakur/Documents/Project/kavya/kaav/kaav.csproj": {}
   },
   "projects": {
-    "/Users/rajatthakur/Documents/Project/kaav/kaav/kaav.csproj": {
+    "/Users/rajatthakur/Documents/Project/kavya/kaav/kaav.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rajatthakur/Documents/Project/kaav/kaav/kaav.csproj",
+        "projectUniqueName": "/Users/rajatthakur/Documents/Project/kavya/kaav/kaav.csproj",
         "projectName": "kaav",
-        "projectPath": "/Users/rajatthakur/Documents/Project/kaav/kaav/kaav.csproj",
+        "projectPath": "/Users/rajatthakur/Documents/Project/kavya/kaav/kaav.csproj",
         "packagesPath": "/Users/rajatthakur/.nuget/packages/",
-        "outputPath": "/Users/rajatthakur/Documents/Project/kaav/kaav/obj/",
+        "outputPath": "/Users/rajatthakur/Documents/Project/kavya/kaav/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rajatthakur/.nuget/NuGet/NuGet.Config"
